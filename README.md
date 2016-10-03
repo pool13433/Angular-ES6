@@ -1,4 +1,4 @@
-npm install
+npm init
 nmp install --save angular
 npm install --save lodash
 
