@@ -1,5 +1,5 @@
 npm init
-nmp install --save angular
+npm install --save angular
 npm install --save lodash
 
 npm install --save webapck
